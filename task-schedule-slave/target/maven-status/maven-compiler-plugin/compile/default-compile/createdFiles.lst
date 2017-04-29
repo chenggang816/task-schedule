@@ -1,0 +1,10 @@
+com\cg\taskschedule\slave\msg\MsgHandlerFactory.class
+com\cg\taskschedule\slave\msg\TaskInfoMsgHandler.class
+com\cg\taskschedule\slave\msg\MsgCreator.class
+com\cg\taskschedule\slave\msg\TaskClearMsgHandler.class
+com\cg\taskschedule\slave\msg\UnresolvedMsgHandler.class
+com\cg\taskschedule\slave\Server.class
+com\cg\taskschedule\slave\FileMgr.class
+com\cg\taskschedule\slave\msg\HelloMsgHandler.class
+com\cg\taskschedule\slave\msg\TaskUpdateMsgHandler.class
+com\cg\taskschedule\slave\msg\MsgHandler.class

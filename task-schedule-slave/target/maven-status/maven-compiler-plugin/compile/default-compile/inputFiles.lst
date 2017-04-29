@@ -1,0 +1,10 @@
+D:\gitrepository\task-schedule-slave\src\main\java\com\cg\taskschedule\slave\msg\TaskInfoMsgHandler.java
+D:\gitrepository\task-schedule-slave\src\main\java\com\cg\taskschedule\slave\Server.java
+D:\gitrepository\task-schedule-slave\src\main\java\com\cg\taskschedule\slave\msg\MsgHandlerFactory.java
+D:\gitrepository\task-schedule-slave\src\main\java\com\cg\taskschedule\slave\msg\TaskClearMsgHandler.java
+D:\gitrepository\task-schedule-slave\src\main\java\com\cg\taskschedule\slave\msg\MsgHandler.java
+D:\gitrepository\task-schedule-slave\src\main\java\com\cg\taskschedule\slave\msg\TaskUpdateMsgHandler.java
+D:\gitrepository\task-schedule-slave\src\main\java\com\cg\taskschedule\slave\msg\HelloMsgHandler.java
+D:\gitrepository\task-schedule-slave\src\main\java\com\cg\taskschedule\slave\msg\MsgCreator.java
+D:\gitrepository\task-schedule-slave\src\main\java\com\cg\taskschedule\slave\msg\UnresolvedMsgHandler.java
+D:\gitrepository\task-schedule-slave\src\main\java\com\cg\taskschedule\slave\FileMgr.java
