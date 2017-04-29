@@ -46,12 +46,8 @@ public class Server extends Object{
 		}  
 	}
 
-	public static void main(String args[]){
-		new Server().start();
-		System.out.println("Server has exited.");
-	}
-
-	private void start() {
+	
+	void start() {
 		try {
 			while(true){
 				//阻塞方法，直到接收到客户端消息，才会继续执行

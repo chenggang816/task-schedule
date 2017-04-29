@@ -8,7 +8,7 @@ import junit.framework.Assert;
  * Hello world!
  *
  */
-public class App 
+public class TaskServiceTest 
 {
     public static void main( String[] args )
     {

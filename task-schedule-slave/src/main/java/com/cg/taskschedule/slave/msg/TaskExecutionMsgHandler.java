@@ -12,8 +12,13 @@ public class TaskExecutionMsgHandler extends MsgHandler {
 	@Override
 	public String handle() {
 		//Ö´ÐÐÈÎÎñ
+//		Task task = new Task();
+//		task.fillTaskInfo(FileMgr.getTheTaskConfigFile(taskName));
+//		task.execute();
+		
 		Task task = new Task();
-		task.fillTaskInfo(FileMgr.getTheTaskConfigFile(taskName));
+		task.setTaskDir("data/task/task1");
+		task.setPath("task.jar");
 		task.execute();
 		return null;
 	}
